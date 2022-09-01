@@ -39,3 +39,13 @@ component main {public [c]} = Multiplier();
 npm install
 node test.js
 ```
+
+### Clean file ###
+Clean prove files
+```
+./clean.sh prove 
+```
+Clean all files
+```
+./clean.sh all 
+```
